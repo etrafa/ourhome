@@ -1,0 +1,125 @@
+html,
+body {
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+}
+
+#navbar-section {
+  background-color: blanchedalmond;
+  height: 60.5rem;
+}
+
+#bedroom-section {
+  height: 60.5rem;
+  background-color: aquamarine;
+}
+
+#kitching-section {
+  height: 60.5rem;
+  background-color: blanchedalmond;
+}
+
+#dining-section {
+  height: 60.5rem;
+  background-color: aquamarine;
+}
+
+#food-section {
+  height: 60.5rem;
+  background-color: blanchedalmond;
+}
+
+h1 {
+  font-family: "Tourney", cursive;
+}
+
+.about-us {
+  width: 40%;
+  margin-top: 250px;
+  margin-left: 300px;
+  border: 5px black solid;
+}
+
+.navbar-fixed {
+  font-size: 1.2rem;
+  right: 0;
+  position: fixed;
+}
+
+#carouselExampleIndicators2 {
+  text-align: center;
+}
+
+.our-bedroom {
+  width: 100%;
+  width: 500px;
+  height: 500px;
+  padding-top: 200px;
+}
+
+.our-dining {
+  width: 100%;
+  width: 500px;
+  height: 500px;
+
+  padding-top: 200px;
+}
+
+.our-food {
+  width: 100%;
+  width: 500px;
+  height: 500px;
+
+  padding-top: 200px;
+}
+
+.our-kitchen {
+  width: 100%;
+  width: 500px;
+  height: 500px;
+
+  padding-top: 200px;
+}
+
+.bio-family {
+  border: 1px black solid;
+  margin-left: 0px;
+  margin-top: 20px;
+}
+.our-picture {
+  width: 500px;
+  height: 500px;
+  border: 3px black solid;
+  margin-top: 20px;
+}
+
+.about-us-text {
+  margin-top: 25px;
+  text-align: center;
+}
+
+.our-picture-text {
+  margin-top: 35px;
+  text-align: center;
+}
+
+.bedroom-text {
+  text-align: center;
+  padding-top: 100px;
+}
+
+.kitchen-text {
+  text-align: center;
+  padding-top: 100px;
+}
+
+.dining-text {
+  text-align: center;
+  padding-top: 100px;
+}
+
+.food-text {
+  text-align: center;
+  padding-top: 100px;
+}
